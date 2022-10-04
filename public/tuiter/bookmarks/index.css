@@ -1,0 +1,153 @@
+.wd-bg-color-black {
+    background: black;
+}
+
+.wd-border {
+    border: rgb(47, 51, 54) thin solid;
+}
+.wd-border-bottom{
+    border-bottom: lightgray solid 1px;
+}
+
+.wd-title {
+    margin-left: 16px;
+    margin-top: 12px;
+    font-size: 20px;
+    color: white;
+}
+
+.wd-handle {
+    color: lightgray;
+    font-size: 13px;
+    margin-left: 16px;
+    padding-bottom: 12px;
+}
+
+.wd-avatar {
+    margin-left: 16px;
+    margin-top: 12px;
+    width: 48px;
+    height: 48px;
+    border-radius: 24px;
+    margin-right:12px;
+}
+
+.wd-name-handle {
+    font-size: 15px;
+}
+
+.wd-name-position-top {
+    margin-top:12px;
+}
+
+.wd-white {
+    color: white;
+}
+
+.wd-lightgray {
+    color: lightgray;
+}
+
+.wd-main-content {
+    color: white;
+    font-size: 15px;
+    margin-right: 16px;
+    margin-bottom: 12px;
+    width: 506px;
+}
+
+
+.wd-float-left{
+    float: left;
+}
+
+.wd-float-done {
+    clear: both;
+}
+
+.wd-image {
+    width: 504px;
+    height: 264px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+
+.wd-bottom-content-title {
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+    width: 480px;
+}
+
+.wd-bottom-content-text {
+    color: lightgray;
+    font-size: 15px;
+}
+
+.wd-bottom-content-padding {
+    padding: 12px;
+}
+
+.wd-bottom-content-width {
+    width: 480px;
+}
+
+.wd-bottom-img-content-border {
+    border-color: lightgray;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 20px;
+
+}
+
+/*.wd-bottom-img-border {
+    border-top: lightgray solid 1px;
+    border-left: lightgray solid 1px;
+    border-right: lightgray solid 1px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.wd-bottom-content-border {
+    border-bottom: lightgray solid 1px;
+    border-left: lightgray solid 1px;
+    border-right: lightgray solid 1px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+*/
+
+.wd-last-part-icon {
+    margin-top: 12px;
+}
+
+.wd-last-part-icon-and-num-spacing {
+    margin-left: 12px;
+}
+
+.wd-last-part-icon-and-num-font-color {
+    font-size: 12px;
+    color: lightgray;
+}
+
+.wd-grid-row {
+    clear: both;
+}
+
+.wd-last-part-grid {
+    width: 25%;
+    float: left;
+}
+
+.wd-red {
+    color: red;
+}
+
+.wd-no-text-decoration {
+    text-decoration: none;
+}
+
+.wd-grid-row {
+    grid-row: 1 / 2;
+}
