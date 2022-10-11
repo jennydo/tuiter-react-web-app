@@ -1,7 +1,46 @@
+.wd-text-color {
+    color: black;
+}
 
+.wd-avatar {
+    width: 48px;
+    height: 48px;
+    border-radius: 24px;
+}
+
+/*.wd-post-topic {
+    font-size: 13px;
+    color: rgb(110, 118, 125);
+}*/
+
+.wd-post-name-black {
+    font-size: 13px;
+    color: black;
+    font-weight: bold;
+}
+
+.wd-post-title-black {
+    font-size: 15px;
+    font-weight: bold;
+    color: black;
+}
+
+.wd-post-image-new {
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+}
+
+.wd-nudge-up {
+    bottom: 9px;
+    left: 16px;
+}
+
+/*-------------------------------*/
 .wd-bg-color-black {
     background: black;
 }
+
 
 .wd-margin {
     margin-left: 16px;
