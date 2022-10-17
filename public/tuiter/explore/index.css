@@ -32,8 +32,14 @@
 }
 
 .wd-nudge-up {
-    bottom: 9px;
+    bottom: 6px;
     left: 16px;
+}
+
+.wd-main-content-text {
+    color: black;
+    font-weight: bold;
+    font-size: xxx-large;
 }
 
 /*-------------------------------*/
